@@ -4,7 +4,7 @@ I'm a student at the Federal University of Minas Gerais (UFMG). Really passionat
 
 ## 🚀 Tech Stack
 
-### 🧠 Core Languages
+### 🧠 Languages
 - **C**, **C++** — Solid understanding of low-level programming and memory management
 - **Python** — Data processing, scripting, automation  
 - **SQL** — Data modeling, complex queries, relational databases
