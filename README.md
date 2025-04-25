@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋 I'm Lucas
 
-<!--
-**lap110303/lap110303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at the Federal University of Minas Gerais (UFMG). Really passionate about learning, especially when it comes to Data Science.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Core Languages
+- **C**, **C++** — Solid understanding of low-level programming and memory management
+- **Python** — Data processing, scripting, automation  
+- **SQL** — Data modeling, complex queries, relational databases
+- **Assembly** — Low-level programming and architecture-level debugging  
+- **Verilog** — Digital logic design and hardware description  
+
+### 📊 Data & Analysis
+- **Pandas**, NumPy — Data wrangling and exploration  
+- Jupyter Notebooks — Experimentation and prototyping  
+
+## 📌 About Me
+- 💡 Passionate about clean code, best practices, and the smart use of data
+- 📖 Constantly learning and exploring new technologies  
+
+## 📫 Let's Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-affonso-pires-1843a5303/)
+
+Thanks for stopping by! 🚀
